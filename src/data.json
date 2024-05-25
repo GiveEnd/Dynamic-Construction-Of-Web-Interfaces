@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "access": false,
+    "name": "Josie Brown",
+    "date": "2024-04-02",
+    "mark": "",
+    "classL": "Физика"
+  },
+  {
+    "id": 1,
+    "access": true,
+    "name": "Henderson Small",
+    "date": "2024-03-30",
+    "mark": "",
+    "classL": "Английский"
+  },
+  {
+    "id": 2,
+    "access": true,
+    "name": "Joyner Caldwell",
+    "date": "2024-01-07",
+    "mark": "",
+    "classL": "Физика"
+  },
+  {
+    "id": 3,
+    "access": true,
+    "name": "Lowery Chandler",
+    "date": "2024-04-11",
+    "mark": "",
+    "classL": "Английский"
+  },
+  {
+    "id": 4,
+    "access": true,
+    "name": "Roberson Osborne",
+    "date": "2024-03-10",
+    "mark": "",
+    "classL": "Математика"
+  },
+  {
+    "id": 5,
+    "access": false,
+    "name": "Richard Ochoa",
+    "date": "2024-04-23",
+    "mark": "",
+    "classL": "Математика"
+  }
+]
