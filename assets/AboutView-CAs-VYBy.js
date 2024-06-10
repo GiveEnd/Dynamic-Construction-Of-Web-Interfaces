@@ -1,1 +1,0 @@
-import{_ as o,c as t,o as s,a as e}from"./index-CL7rLGlJ.js";const c={},_={class:"about"},n=e("h1",null,"Методология и технология динамического построения веб-интерфейсов",-1),a=e("h1",null,"Старовойтов Владимир 2421",-1),r=[n,a];function d(i,l){return s(),t("div",_,r)}const u=o(c,[["render",d]]);export{u as default};
