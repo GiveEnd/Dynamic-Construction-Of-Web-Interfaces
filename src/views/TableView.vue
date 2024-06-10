@@ -611,8 +611,10 @@ th {
 }
 
 td {
-  background-color: #181818;
-  color: hsla(160, 100%, 37%, 1);
+  /* background-color: #d5b942;
+  color: #260c1a; */
+  background-color: #ffffff;
+  color: #000000;
 }
 
 th,
